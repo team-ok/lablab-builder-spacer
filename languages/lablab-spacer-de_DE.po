@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lablab Builder Spacer Module\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-08 12:44+0000\n"
+"PO-Revision-Date: 2017-06-08 12:48+0000\n"
+"Last-Translator: Timo Klemm <klemm@phil.hhu.de>\n"
+"Language-Team: German\n"
+"Language: de-DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: fields/lablab-spacer-fields.php:16
+msgid "Add vertical divider line?"
+msgstr "Vertikale Trennlinie einfügen?"
+
+#: fields/lablab-spacer-fields.php:28
+msgid "Yes"
+msgstr "Ja"
+
+#: fields/lablab-spacer-fields.php:29
+msgid "No"
+msgstr "Nein"
+
+#: includes/class-lablab-builder-spacer-module.php:16
+msgid "Spacer"
+msgstr "Abstandhalter"
+
+#. Name of the plugin
+msgid "Lablab Builder Spacer Module"
+msgstr "Lablab Builder Spacer Module"
+
+#. Description of the plugin
+msgid "Adds a spacer module to lablab builder."
+msgstr "Ein Abstandhalter-Modul für den Lablab Builder."
+
+#. URI of the plugin
+msgid "https://github.com/team-ok/lablab-builder-spacer"
+msgstr "https://github.com/team-ok/lablab-builder-spacer"
+
+#. Author of the plugin
+msgid "Timo Klemm"
+msgstr "Timo Klemm"
+
+#. Author URI of the plugin
+msgid "https://github.com/team-ok"
+msgstr "https://github.com/team-ok"
